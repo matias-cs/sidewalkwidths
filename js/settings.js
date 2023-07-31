@@ -1,5 +1,5 @@
 var MAPBOX_TOKEN = 'pk.eyJ1IjoibWF0aWFzY2FyZG9zbyIsImEiOiJjbGE1dGN1d3AweGpzM3ZvNzA2a3Z0ODMxIn0.9tjff8LSWQZoQ3O5CbSiOQ'
-var MAPBOX_STYLE = 'mapbox://styles/matiascardoso/clj1tc6m800dv01qq1i4ba1ki'
+var MAPBOX_STYLE = 'mapbox://styles/matiascardoso/clkoc58ab005s01o8ezb3d30t'
 var SIDEWALKS_TILESET = 'mapbox://matiascardoso.9gzno2y4'
 var SIDEWALKS_LAYER = 'Index_-_Amsterdamv3-5bbhxq'
 var DISTRICTS_TILESET = 'mapbox://dcharvey.7dbzv200'
