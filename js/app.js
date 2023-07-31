@@ -109,9 +109,9 @@ var map = new mapboxgl.Map({
   container: 'map',
   style: MAPBOX_STYLE,
   center: [4.898585,52.383045],
-  zoom: 13,
+  zoom: 1,
   maxZoom: 22,
-  minZoom: 13,
+  minZoom: 1,
   // maxBounds: [
   //   [-74.36, 40.41], // Southwest coordinates
   //   [-73.66, 40.98] // Northeast coordinates
