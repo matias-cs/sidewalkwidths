@@ -1,4 +1,4 @@
-var MAPBOX_TOKEN = 'pk.eyJ1IjoibWF0aWFzY2FyZG9zbyIsImEiOiJjbGE1dGN1d3AweGpzM3ZvNzA2a3Z0ODMxIn0.9tjff8LSWQZoQ3O5CbSiOQ'
+var MAPBOX_TOKEN = 'sk.eyJ1IjoibWF0aWFzY2FyZG9zbyIsImEiOiJjbGtyNDF0bjQxYm81M2RreTA2bHRicnBtIn0.9AgSlXQprM5Z-DxemMTEdQ'
 var MAPBOX_STYLE = 'mapbox://styles/matiascardoso/clkoc58ab005s01o8ezb3d30t'
 var SIDEWALKS_TILESET = 'mapbox://matiascardoso.9gzno2y4'
 var SIDEWALKS_LAYER = 'Index_-_Amsterdamv3-5bbhxq'
