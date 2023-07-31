@@ -4,7 +4,7 @@ var SIDEWALKS_TILESET = 'mapbox://matiascardoso.94x90g7n'
 var SIDEWALKS_LAYER = 'Walkability2-9v7uqc'
 var DISTRICTS_TILESET = 'mapbox://dcharvey.7dbzv200'
 var DISTRICTS_LAYER = 'districts_nyc-1eoi4m'
-var UNITS = 'm' // change to 'm' for meters
+var UNITS = 'points' // change to 'm' for meters
 var PRECISION = 0.1 // the number of decimal places
 var GROUPS = [
   {
