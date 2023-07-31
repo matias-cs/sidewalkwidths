@@ -1,7 +1,7 @@
 var MAPBOX_TOKEN = 'pk.eyJ1IjoibWF0aWFzY2FyZG9zbyIsImEiOiJjbGE1dGN1d3AweGpzM3ZvNzA2a3Z0ODMxIn0.9tjff8LSWQZoQ3O5CbSiOQ'
 var MAPBOX_STYLE = 'mapbox://styles/matiascardoso/clkoc58ab005s01o8ezb3d30t'
-var SIDEWALKS_TILESET = 'mapbox://matiascardoso.9gzno2y4'
-var SIDEWALKS_LAYER = 'Index_-_Amsterdamv3-5bbhxq'
+var SIDEWALKS_TILESET = 'mapbox://matiascardoso.5j5flxrf'
+var SIDEWALKS_LAYER = 'Walkability-cfbdg0'
 var DISTRICTS_TILESET = 'mapbox://dcharvey.7dbzv200'
 var DISTRICTS_LAYER = 'districts_nyc-1eoi4m'
 var UNITS = 'm' // change to 'm' for meters
@@ -13,32 +13,32 @@ var GROUPS = [
     "color": "#FF0049"
   },
   {
-    "value": 6.0,
+    "value": 0.2,
     "rating": "very difficult",
     "color": "#FF461E"
   },
   {
-    "value": 9.0,
+    "value": 0.4,
     "rating": "difficult",
     "color": "#FF9300"
   },
   {
-    "value": 12.0,
+    "value": 0.6,
     "rating": "somewhat difficult",
     "color": "#e4da27"
   },
   {
-    "value": 15.0,
+    "value": 0.8,
     "rating": "somewhat easy",
     "color": "#1ce262"
   },
   {
-    "value": 18.0,
+    "value": 0.9,
     "rating": "easy",
     "color": "#00FFC4"
   },
   {
-    "value": 21.0,
+    "value": 1,
     "rating": "very easy",
     "color": "#00D2FF"
   },
