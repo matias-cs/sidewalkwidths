@@ -1,7 +1,7 @@
 var MAPBOX_TOKEN = 'pk.eyJ1IjoibWF0aWFzY2FyZG9zbyIsImEiOiJjbGE1dGN1d3AweGpzM3ZvNzA2a3Z0ODMxIn0.9tjff8LSWQZoQ3O5CbSiOQ'
 var MAPBOX_STYLE = 'mapbox://styles/matiascardoso/clj1tc6m800dv01qq1i4ba1ki'
 var SIDEWALKS_TILESET = 'mapbox://matiascardoso.9gzno2y4'
-var SIDEWALKS_LAYER = 'sidewalkwidths_nyc-87ugfr'
+var SIDEWALKS_LAYER = 'Index_-_Amsterdamv3-5bbhxq'
 var DISTRICTS_TILESET = 'mapbox://dcharvey.7dbzv200'
 var DISTRICTS_LAYER = 'districts_nyc-1eoi4m'
 var UNITS = 'm' // change to 'm' for meters
