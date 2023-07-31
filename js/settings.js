@@ -1,5 +1,5 @@
 var MAPBOX_TOKEN = 'sk.eyJ1IjoibWF0aWFzY2FyZG9zbyIsImEiOiJjbGtyNDF0bjQxYm81M2RreTA2bHRicnBtIn0.9AgSlXQprM5Z-DxemMTEdQ'
-var MAPBOX_STYLE = 'mapbox://styles/matiascardoso/clkoc58ab005s01o8ezb3d30t'
+var MAPBOX_STYLE = 'mapbox://styles/matiascardoso/clj1tc6m800dv01qq1i4ba1ki'
 var SIDEWALKS_TILESET = 'mapbox://matiascardoso.9gzno2y4'
 var SIDEWALKS_LAYER = 'sidewalkwidths_nyc-87ugfr'
 var DISTRICTS_TILESET = 'mapbox://dcharvey.7dbzv200'
