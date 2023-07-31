@@ -108,7 +108,7 @@ mapboxgl.accessToken = MAPBOX_TOKEN;
 var map = new mapboxgl.Map({
   container: 'map',
   style: MAPBOX_STYLE,
-  center: [4.898585,52.383045],
+  center: [4.898,52.383],
   zoom: 13,
   maxZoom: 22,
   minZoom: 13,
