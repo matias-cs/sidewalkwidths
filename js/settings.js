@@ -38,7 +38,7 @@ var GROUPS = [
     "color": "#00FFC4"
   },
   {
-    "value": 87.1,
+    "value": 80.1,
     "rating": "excellent",
     "color": "#00D2FF"
   },
