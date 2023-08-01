@@ -219,7 +219,7 @@ map.on('load', function() {
     var description =
       '<div class="name">Sidewalk Width:</div>' +
       '<div class="width">' + (Math.round(lineWidth * 10) / 10) + ' ' + UNITS + '</div>' +
-      '<div class="message">Walkability is ' + GROUPS[groupIndex].rating + ' on this path</div>'
+      '<div class="message">Walkability scores ' + GROUPS[groupIndex].rating + ' on this path</div>'
 
     popup.setLngLat(coordinates)
     popup.setHTML(description)
